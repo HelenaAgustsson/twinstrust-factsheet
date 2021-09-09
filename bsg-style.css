@@ -1,0 +1,98 @@
+    .info-image {
+        height: 100px;
+        width: 100px;
+        padding: 10px;
+    }
+    .object-fit {
+      background-image: url('images/Logo-white.png');
+      background-size: contain;
+      background-repeat: no-repeat;
+    }
+    .card-title {
+      font-weight: bold;
+    }
+    .white-text {
+      color: #ffffff;
+    }
+    .navy-text {
+      color: #24536D;
+    }
+    .navy {
+      color: #24536D;
+    }
+    .grey-border {
+      border: 2px solid #24536D;
+    }
+    .white-border {
+      border: 2px solid #ffffff;
+    }
+    .green-background {
+      background-color: #A1C861;
+    }
+    .orange-background {
+      background-color: #EE743B;
+    }
+    .pink-background {
+      background-color: #F5B3C4;
+    }
+    .yellow-background {
+      background-color: #FFE843;
+    }
+    .navy-background {
+      background-color: #24536D;
+    }
+    .blue-background {
+      background-color: #96D2D2;
+    }
+    .teal-background {
+      background-color: #00809C;
+    }
+    .lilac-background {
+      background-color: #B1A9D4;
+    }
+    .purple-background {
+        background-color: #9692bd;
+    }
+    .light-blue-background {
+        background-color: #dff1f1;
+    }
+    .white-background {
+      background-color: #ffffff;
+    }
+     /*
+    blue: #00809c
+    teal: #96d2d2
+    lilac light:#dfddee
+    lilac deep: #9692bd
+    */
+    body {
+        color: #9692bd;
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+        padding: 10px;
+    }
+    .container {
+        color: #9692bd;
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+        padding: 10px;
+    }
+    .logo {
+        max-width: 300px;
+        text-align: left;
+        margin: 30px 0px;
+    }
+    
+    h1, h2 {
+        font-weight: bold;
+        text-align: right;
+    }
+    
+    .divider {
+        margin: 70px;
+        display: block;
+    }
+
+    .footer {
+        background-color: #9692bd;
+    } 
